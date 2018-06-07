@@ -1,4 +1,4 @@
-package com.tushar;
+package com.solutions;
 
 public class Main {
 
